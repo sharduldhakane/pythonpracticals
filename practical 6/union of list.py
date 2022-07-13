@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul Dhakane
 # Python program to print union of 2 lists
 
 from sys import stdin, stdout, setrecursionlimit
