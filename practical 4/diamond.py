@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Program to print a diamond pattern
 def Diamond(rows):
     n = 0
