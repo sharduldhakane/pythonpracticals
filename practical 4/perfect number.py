@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Program to check if number is perfect number
 n=int(input("Enter a number: "))
 sum=0
