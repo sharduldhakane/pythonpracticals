@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Program to check if a given number is disarium number or not
 
 n=int(input("Enter a number: "))
