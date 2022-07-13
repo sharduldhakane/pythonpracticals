@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Python Program to convert kilometers to miles
 print("This is a python program that converts kilometers to miles")
 km=int(input("Enter the distance in kilometers: "))
