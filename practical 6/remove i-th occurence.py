@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul Dhakane
 # Program to remove the I-th occurrence of given word in a list where words repeat
 
 from sys import stdin, stdout, setrecursionlimit
