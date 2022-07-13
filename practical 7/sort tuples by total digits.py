@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul Dhakane
 # Python program to sort tuples by total digits
 
 print("This is a python program to sort tuples by total digits ")
