@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Program to count occurences of all words in a sentence
 
 from collections import Counter
