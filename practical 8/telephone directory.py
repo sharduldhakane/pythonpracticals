@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul Dhakane
 # Telephone Directory
 def find_num():
     key=input("Enter the name whose number you want to find: ")
