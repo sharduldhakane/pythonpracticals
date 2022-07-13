@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Python program to calculate tht area of a triangle
 print("This is a python program to calculate the area of a triangle. Kindly enter the dimensions of height and base")
 ht=int(input("Height: "))
