@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul Dhakane
 # Program to find length of list using recursion
 
 from sys import stdin, stdout, setrecursionlimit
