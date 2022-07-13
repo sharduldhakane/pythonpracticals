@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Program to find transpose of matrix
 
 l=eval(input("Enter a 2-D list"))
