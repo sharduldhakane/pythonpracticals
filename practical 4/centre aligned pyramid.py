@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 #Program to print centre aligned triangle of asterisks
 
 n=int(input("Enter number of rows: "))
