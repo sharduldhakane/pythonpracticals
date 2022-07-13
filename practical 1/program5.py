@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Python program to solve quadratic equation
 import math
 print("This python program helps to find the roots of quadratic equation")
