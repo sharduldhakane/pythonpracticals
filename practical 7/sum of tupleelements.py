@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul Dhakane
 # Python program to find sum of tuple elements
 
 from sys import stdin, stdout, setrecursionlimit
