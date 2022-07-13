@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N, Dhakane
 # Python Program to count unique values inside a list
 from sys import stdin
 
