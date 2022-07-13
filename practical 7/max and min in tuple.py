@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul Dhakane
 # Python program to find max and min elements of tuple
 
 from sys import stdin, stdout, setrecursionlimit
