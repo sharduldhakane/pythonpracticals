@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Program to check if the list contains 3 consecutive common numbers
 
 from collections import Counter
