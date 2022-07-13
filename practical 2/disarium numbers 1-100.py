@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Program to print disarium numbers from 1 to 100
 print("The disarium numbers from 1 to 100 are: ")
 for n in range(1,101):
