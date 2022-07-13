@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Python program to extract elements with frequency greater than k
 
 from sys import stdin, stdout, setrecursionlimit
