@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N, Dhakane
 # Program to convert decimal to binary
 
 def dtob(d):
