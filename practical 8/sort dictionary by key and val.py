@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul Dhakane
 # Python program to sort the given dictionary by keys and values
 from collections import OrderedDict
 print("This is a python program to merge 2 lists into a dictionary ")
