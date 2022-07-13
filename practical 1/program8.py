@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Python program to convert celcius to Fahreinheit
 print("This is a python program that converts Celcius to Fahreinheit")
 cel=int(input("Enter the temperature in Celcius: "))
