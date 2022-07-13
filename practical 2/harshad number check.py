@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Program to check if given number is harshad number
 # harshad number is a number which is divisible by sum of its digits
 n=int(input("Enter a number: "))
