@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul Dhakane
 # Python program to count number of tuples in a list
 
 from sys import stdin, stdout, setrecursionlimit
