@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Python Program to add two numbers
 print("This is a program to add two numbers")
 a=int(input("Enter 1st number: "))
