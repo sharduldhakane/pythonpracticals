@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Python program to compute difference between 2 lists
 
 from sys import stdin, stdout, setrecursionlimit
