@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Program to print pronic numbers between 1 to 100
 # pronic number is a product of two consecutive integers
 import math
