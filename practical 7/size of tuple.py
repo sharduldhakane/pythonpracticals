@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author:  Shardul Dhakane
 # Python program to find size of tuple
 
 from sys import stdin, stdout, setrecursionlimit
