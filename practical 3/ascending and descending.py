@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Program to Sort elements in a list in ascending and descending order
 
 l=eval(input("Enter a list: "))
