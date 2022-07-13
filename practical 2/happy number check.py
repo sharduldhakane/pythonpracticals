@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Program to check if a number is happy number or not
 def sumofsqofdig(n):
     s=0
