@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Program to print happy numbers between 1 to 100
 def sumofsqofdig(n):
     s=0
