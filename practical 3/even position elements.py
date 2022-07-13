@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Program to print elements of array present at even position
 
 l=eval(input("Enter a list: "))
