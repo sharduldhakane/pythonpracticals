@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul Dhakane
 # Given 2 lists: one containing keys and other containing values. Merge them to form a dictionary
 
 from sys import stdin, stdout, setrecursionlimit
