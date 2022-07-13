@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul Dhakane
 # Python program to replace values from the dictionary
 print("This is a python program to replace values in the dictionary ")
 print("-------------------------------------------------------------------------------------\n")
