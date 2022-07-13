@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul N. Dhakane
 # Python program to swap two variables
 print("This python program swaps to variables")
 a=int(input("Enter value of a: "))
