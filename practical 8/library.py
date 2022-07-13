@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Shardul Dhakane
 # Library
 
 books={"RP Jain":5,"HC Verma":2,"Errorless":10,"Physics":0,"Chemistry":4,"Maths":4,"History":3,"Python":1}
